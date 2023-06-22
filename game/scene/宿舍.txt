@@ -1,0 +1,6 @@
+changeBg:宿舍.jpg -next;
+changeFigure:木子李.png -left -next -id=木子李;
+木子李:要不要出去走走？;
+changeFigure:弓长张.png -right -next -id=弓长张;//改变人物立绘
+弓长张:昨晚通宵学习累坏我了，还是你去吧！;
+木子李:好吧，那我走了。不要想念为父;

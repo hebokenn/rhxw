@@ -1,0 +1,8 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+unlockBgm: -name=雲を追いかけて;
+intro:你好！|欢迎体验我们的游戏|希望您玩的愉快！;
+callScene:宿舍.txt
+changeFigure: -right -next -id=弓长张;
+changeFigure: -left -next -id=木子李;
+changeScene:在路上.txt

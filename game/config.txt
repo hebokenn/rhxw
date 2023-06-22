@@ -1,0 +1,5 @@
+Game_name:wzlzmsjh;
+Game_key:174e9d1729788a;
+Package_name:xbmzdx.wzzlmsjh;
+Title_bgm:s_Title.mp3;
+Title_img:封面.jpg;

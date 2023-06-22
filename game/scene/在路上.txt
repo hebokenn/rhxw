@@ -1,0 +1,5 @@
+setTextbox:hide;
+changeBg:校园街景1.jpg -next;
+playEffect:脚步声2.mp3;
+playEffect:鸟叫声1.mp3;
+changeScene:在路上2.txt

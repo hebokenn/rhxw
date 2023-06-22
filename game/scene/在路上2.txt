@@ -1,0 +1,6 @@
+changeBg:R-C.jpg;
+changeFigure:木子李.png -id=木子李;
+setTextbox:on;
+木子李:去哪儿逛呢？听说正宁街有很多好吃的面食，张掖路的肉是一绝，中山桥的饮品很经典......;
+choose:正宁路:正宁街.txt|张掖路:张掖路.txt;
+changeFigure: -next -id=木子李;
